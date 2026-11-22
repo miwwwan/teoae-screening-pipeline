@@ -49,3 +49,12 @@ The main script invokes `modul_analisisfix.proses_data_oae()` and extracts the f
 Ensure Python 3.x and the required dependencies are installed:
 ```bash
 pip install PyQt6 matplotlib numpy pyserial scipy
+
+```
+
+## Access to Private Core Modules
+Access to the private repository containing the full internal modules (`modul_perekaman.py` and `modul_analisisfix.py`) is restricted and granted **upon request** (permission-based) to protect intellectual property and implementation details.
+
+To request access:
+1. Contact the corresponding author via email or through the journal editorial system.
+2. Include your **GitHub username** so an invitation can be sent via GitHub repository collaborators.
